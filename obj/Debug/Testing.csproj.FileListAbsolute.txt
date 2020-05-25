@@ -1,0 +1,6 @@
+C:\Users\Tamás\Documents\Learning\Programozás\C#\Sololearn\Testing\bin\Debug\Testing.exe.config
+C:\Users\Tamás\Documents\Learning\Programozás\C#\Sololearn\Testing\bin\Debug\Testing.exe
+C:\Users\Tamás\Documents\Learning\Programozás\C#\Sololearn\Testing\bin\Debug\Testing.pdb
+C:\Users\Tamás\Documents\Learning\Programozás\C#\Sololearn\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\Tamás\Documents\Learning\Programozás\C#\Sololearn\Testing\obj\Debug\Testing.exe
+C:\Users\Tamás\Documents\Learning\Programozás\C#\Sololearn\Testing\obj\Debug\Testing.pdb
