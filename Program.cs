@@ -84,7 +84,7 @@ namespace Testing
             // Operator Precedence 2.\\ //int x = (4 + 3) * 2; //Természetesen a zárójel itt is működik
             //Console.WriteLine(x);
 
-
+            Console.WriteLine("Ez egy próba");
                 
        
             Console.ReadKey();
